@@ -13,6 +13,7 @@ php:
     - '7.2'
     - '7.3'
     - '7.4snapshot'
+    - '8.0'
 
 env:
     - SYMFONY_VERSION=^3.0
